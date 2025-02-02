@@ -1,0 +1,3 @@
+//algunas funciones 
+agregarAmigo();
+sortearAmigo();

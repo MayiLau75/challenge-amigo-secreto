@@ -1,3 +1,3 @@
-//algunas funciones 
+//algunas funciones
 agregarAmigo();
 sortearAmigo();

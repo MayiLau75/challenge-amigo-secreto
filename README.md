@@ -33,6 +33,38 @@ El Sorteador de Amigos es una aplicación web sencilla y divertida que te permit
 
 ## 📁 Acceso al proyecto
 
-Clona el repositorio:
-   ```bash
-   git clone: 
+1. Clona el repositorio:
+
+```bash
+   git clone:https://github.com/MayiLau75/challenge-amigo-secreto.git
+```
+
+2. Navega a la carpeta del proyecto:
+
+```bash
+cd challenge-amigo-secreto
+```
+
+3. Abre el archivo index.html en tu navegador para ejecutar la aplicación.
+
+## ✅ Tecnologías utilizadas
+
+- **HTML5**
+
+- **CSS3**
+
+- **JavaScript**
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas mejorar la aplicación:
+
+- **Realiza un fork del repositorio**
+- **Crea una rama para tus cambios**
+- **Envía un pull request con una descripción de las mejoras realizadas.**
+
+## Autores
+
+[<img src="https://github.com/user-attachments/assets/6d454596-9179-408b-9675-aa36654a1c42" width=115><br><sub>María Laureano Roque</sub>](https://github.com/camilafernanda)
+
+

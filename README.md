@@ -65,6 +65,6 @@ cd challenge-amigo-secreto
 
 ## Autores
 
-[<img src="https://github.com/user-attachments/assets/6d454596-9179-408b-9675-aa36654a1c42" width=115><br><sub>María Laureano Roque</sub>](https://github.com/camilafernanda)
+[<img src="https://github.com/user-attachments/assets/6d454596-9179-408b-9675-aa36654a1c42" width=115><br><sub>María Laureano Roque</sub>](https://github.com/MayiLau75)
 
 

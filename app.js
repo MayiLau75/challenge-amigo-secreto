@@ -55,7 +55,7 @@ function sortearAmigo() {
             }
 
 
-            let sorteado = (`El amigo secreto sorteado es: ${amigoSorteado}`);
+            let sorteado = (`🎉 El amigo secreto sorteado es: ${amigoSorteado}🎉`);
             let li = document.createElement('li');
             li.textContent = sorteado
             sorteo.appendChild(li);

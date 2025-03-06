@@ -4,7 +4,7 @@
     <br />
     <br />
     <a href="">
-      <img src="https://github.com/user-attachments/assets/b7ac0200-de77-438b-884b-a35b8e770dc0" alt="Sorteo del amigo secreto">
+      <img src="https://github.com/user-attachments/assets/12cdc021-b0d5-4928-bb4c-6a72cc1b07ff" alt="Sorteo del amigo secreto">
     </a>
   </h1>
 </div>
